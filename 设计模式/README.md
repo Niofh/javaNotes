@@ -10,3 +10,4 @@
  * 作用批量生产不同对象，但是类都是实现同一个接口
  * 通过类的反射机制和properties属性文件对应关系来解决if-else的判断
  * PropertiesReader.java 是一个读取对应属性工具类
+ * 案例： jdbc、spring 等框架
